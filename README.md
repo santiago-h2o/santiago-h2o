@@ -1,6 +1,5 @@
 <h1 align="center">Bienvenido👋🏻, Soy Santiago Cuello Aguas💻</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bienvenido+%F0%9F%91%8B;soy+desarrollador+fullstack
 # 💫 Sobre mí
 Desarrollador comprometido y curioso, con experiencia trabajando en diversos entornos tecnológicos.
  - 🌱 Ahora mismo estoy metido de lleno en JAVA y .NET.
