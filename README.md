@@ -9,7 +9,7 @@ Desarrollador comprometido y curioso, con experiencia trabajando en diversos ent
  - ⚙️ Valoro el código limpio, la curiosidad constante y la responsabilidad en cada proyecto.
  - 🚀 Mi meta es seguir creciendo como desarrollador full-stack y aprender algo nuevo cada día.
 
-## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
+## MI STACK Y HERRAMIENTAS QUE USO
 
 | **Categoria**               | **Icono**                                                                                             |
 |----------------------------|------------------------------------------------------------------------------------------------------|
