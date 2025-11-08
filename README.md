@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenido👋🏻, Soy Santiago Cuello Aguas💻</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hola+%F0%9F%91%8B;I+am+Mubin%2C+aka+MK.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bienvenido+%F0%9F%91%8B;soy+desarrollador+fullstack
 # 💫 Sobre mí
 Desarrollador comprometido y curioso, con experiencia trabajando en diversos entornos tecnológicos.
  - 🌱 Ahora mismo estoy metido de lleno en JAVA y .NET.
@@ -9,7 +9,7 @@ Desarrollador comprometido y curioso, con experiencia trabajando en diversos ent
  - ⚙️ Valoro el código limpio, la curiosidad constante y la responsabilidad en cada proyecto.
  - 🚀 Mi meta es seguir creciendo como desarrollador full-stack y aprender algo nuevo cada día.
 
-## MI STACK Y HERRAMIENTAS QUE USO
+## ⚙️ Mi Stack y Herramientas
 
 | **Categoria**               | **Icono**                                                                                             |
 |----------------------------|------------------------------------------------------------------------------------------------------|
