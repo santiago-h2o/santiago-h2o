@@ -21,3 +21,10 @@ Desarrollador comprometido y curioso, con experiencia trabajando en diversos ent
 | **Platforms, Tools**        | <img src="https://skillicons.dev/icons?i=figma" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=wordpress" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=windows" width="42" height="42"/> <img src="https://skillicons.dev/icons?i=ubuntu" width="42" height="42"/> |
 | **Version Control**         | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/> <img src="https://github.com/rdimascio/icons/blob/master/icons/github.svg" width="42" height="42"/> |
 
+## 🌐 Redes Sociales:
+<a href="cuelloaguas@gmail.com" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Gmail-logo?style=for-the-badge&logo=gmail&logoColor=white&color=%23D14836" alt="gmail" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/santiago-cuello-69425926b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+
+
+
+
